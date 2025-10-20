@@ -17,7 +17,7 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 5. Visualize outliers using boxplots and remove them if necessary.  
 
 **Dataset:**  
-[Download Titanic Dataset](click-here-to-download-dataset)  
+[Download Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download)  
 
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
