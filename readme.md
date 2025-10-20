@@ -7,7 +7,7 @@ This repository contains all tasks completed during my internship, organized by 
 
 ## 📂 Repository Structure
 
-- [Day-1: Data Cleaning & Preprocessing](../Day-1/)  
+- [Day-1: Data Cleaning & Preprocessing](Day-1/)  
 - [Day-2: <Task Name>]
 - [Day-3: <Task Name>]
 - ...  
