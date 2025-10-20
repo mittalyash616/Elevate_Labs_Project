@@ -21,8 +21,6 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 - `scripts/` – Python scripts or notebooks  
 - `visualizations/` – Plots generated during the task  
 
----
-
 **What I Learned:**  
 - How to explore a dataset and understand its structure using Pandas.  
 - Techniques to handle missing data effectively.  
@@ -31,4 +29,5 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 - How to detect and visualize outliers, and decide when to remove them.  
 - Gained hands-on experience in Python data preprocessing and basic visualization.  
 
+---
 > Completed by **Yash Mittal**
