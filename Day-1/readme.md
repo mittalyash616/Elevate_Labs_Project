@@ -16,14 +16,19 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 4. Normalize or standardize numerical features.  
 5. Visualize outliers using boxplots and remove them if necessary.  
 
-**Dataset:**  
-[Download Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset?resource=download)  
-
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
 - `scripts/` – Python scripts or notebooks  
 - `visualizations/` – Plots generated during the task  
 
 ---
+
+**What I Learned:**  
+- How to explore a dataset and understand its structure using Pandas.  
+- Techniques to handle missing data effectively.  
+- Methods to convert categorical features into numerical values suitable for ML models.  
+- How to normalize or standardize data to improve model performance.  
+- How to detect and visualize outliers, and decide when to remove them.  
+- Gained hands-on experience in Python data preprocessing and basic visualization.  
 
 > Completed by **Yash Mittal**
