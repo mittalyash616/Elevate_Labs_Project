@@ -1,7 +1,7 @@
-# Day-1: Data Cleaning & Preprocessing
+# Day-2: Exploratory Data Analysis (EDA)
 
 **Objective:**  
-Learn how to clean and prepare raw data for Machine Learning tasks.
+Understand the dataset using statistics and visualizations to identify key patterns, trends, and insights.
 
 **Tools Used:**  
 - Python  
@@ -10,11 +10,11 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 - Matplotlib / Seaborn  
 
 **Task Overview / Mini Guide:**  
-1. Import the dataset and explore basic information (null values, data types).  
-2. Handle missing values using mean, median, or imputation techniques.  
-3. Convert categorical features into numerical values using encoding methods.  
-4. Normalize or standardize numerical features.  
-5. Visualize outliers using boxplots and remove them if necessary.  
+1.Generate summary statistics (mean, median, std, etc.).
+2.Create histograms and boxplots for numeric features.
+3.Use pairplot/correlation matrix for feature relationships.
+4.Identify patterns, trends, or anomalies in the data.
+5.Make basic feature-level inferences from visuals.
 
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
@@ -22,12 +22,12 @@ Learn how to clean and prepare raw data for Machine Learning tasks.
 - `visualizations/` – Plots generated during the task  
 
 **What I Learned:**  
-- How to explore a dataset and understand its structure using Pandas.  
-- Techniques to handle missing data effectively.  
-- Methods to convert categorical features into numerical values suitable for ML models.  
-- How to normalize or standardize data to improve model performance.  
-- How to detect and visualize outliers, and decide when to remove them.  
-- Gained hands-on experience in Python data preprocessing and basic visualization.  
+- How to summarize and explore data using Pandas (`.describe()`, `.info()`, etc.)  
+- Techniques to handle missing or inconsistent data effectively.  
+- How to visualize data using Matplotlib and Seaborn for clearer interpretation.  
+- Methods to identify and interpret outliers using boxplots.  
+- How to detect relationships between features using correlation heatmaps and pairplots.  
+- The importance of visual storytelling in uncovering insights and patterns in data.  
 
 ---
 > Completed by **Yash Mittal**
