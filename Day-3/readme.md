@@ -1,7 +1,7 @@
 # Day-3: Linear Regression
 
 **Objective:**  
-Learn how to clean and prepare raw data for Machine Learning tasks.
+Implement and understand simple & multiple linear regression.
 
 **Tools Used:**  
 - Python  
