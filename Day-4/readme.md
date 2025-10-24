@@ -1,7 +1,7 @@
-# Day-4: Linear Regression
+# Day-4: Classification with Logistic Regression.
 
 **Objective:**  
-Implement and understand simple & multiple linear regression.
+Build a binary classifier using logistic regression.
 
 **Tools Used:**  
 - Python  
@@ -11,11 +11,11 @@ Implement and understand simple & multiple linear regression.
 - Scikit-learn  
 
 **Task Overview / Mini Guide:**  
-1.Import and preprocess the dataset.
-2.Split data into train-test sets.
-3.Fit a Linear Regression model using sklearn.linear model.
-4.Evaluate model using MAE, MSE, R²
-5.Plot regression line and interpret coefficients.
+1.Choose a binary classification dataset.
+2.Train/test split and standardize features.
+3.Fit a Logistic Regression model.
+4.Evaluate with confusion matrix, precision, recall, ROC-AUC.
+5.Tune threshold and explain sigmoid function.
 
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
@@ -23,13 +23,11 @@ Implement and understand simple & multiple linear regression.
 - `visualizations/` – Plots generated during the task  
 
 **What I Learned:**  
-- How to understand relationships between features and target variables using Linear Regression.
-- How to split data into training and testing sets for model evaluation.
-- How to train a Linear Regression model using sklearn.linear_model.
-- How to evaluate model performance using MAE, MSE, and R² metrics.
-- How to interpret regression coefficients to understand feature importance.
-- How to visualize predictions using regression plots and actual vs. predicted graphs.
-- Gained hands-on experience in implementing and analyzing Linear Regression in Python.
+- How to build a binary classifier using Logistic Regression.
+- How to split and standardize data for better model performance.
+- How to train and evaluate a model using metrics like precision, recall, and ROC-AUC.
+- How the sigmoid function works and converts outputs to probabilities.
+- Gained hands-on experience in implementing Logistic Regression in Python.
 
 ---
 > Completed by **Yash Mittal**
