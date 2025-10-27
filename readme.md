@@ -11,6 +11,7 @@ This repository contains all tasks completed during my internship, organized by 
 - [Day-2: Exploratory Data Analysis (EDA)](Day-2/)  
 - [Day-3: Linear Regression](Day-3/)  
 - [Day-4: Classification with Logistic Regression](Day-4/)  
+- [Day-5: Decision Trees and Random Forests](Day-5/)  
 - ...  
 
 ---
