@@ -1,7 +1,7 @@
-# Day-4: Classification with Logistic Regression.
+# Day-5: Decision Trees and Random Forests
 
 **Objective:**  
-Build a binary classifier using logistic regression.
+Learn tree-based models for classification & regression.
 
 **Tools Used:**  
 - Python  
@@ -9,13 +9,14 @@ Build a binary classifier using logistic regression.
 - NumPy  
 - Matplotlib / Seaborn  
 - Scikit-learn  
+- Graphviz
 
 **Task Overview / Mini Guide:**  
-1.Choose a binary classification dataset.
-2.Train/test split and standardize features.
-3.Fit a Logistic Regression model.
-4.Evaluate with confusion matrix, precision, recall, ROC-AUC.
-5.Tune threshold and explain sigmoid function.
+1.Train a Decision Tree Classifier and visualize the tree.
+2.Analyze overfitting and control tree depth.
+3.Train a Random Forest and compare accuracy.
+4.Interpret feature importances.
+5.Evaluate using cross-validation.
 
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
