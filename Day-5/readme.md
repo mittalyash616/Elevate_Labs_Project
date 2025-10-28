@@ -24,11 +24,11 @@ Learn tree-based models for classification & regression.
 - `visualizations/` – Plots generated during the task  
 
 **What I Learned:**  
-- How to build a binary classifier using Logistic Regression.
-- How to split and standardize data for better model performance.
-- How to train and evaluate a model using metrics like precision, recall, and ROC-AUC.
-- How the sigmoid function works and converts outputs to probabilities.
-- Gained hands-on experience in implementing Logistic Regression in Python.
+- Trained and visualized a Decision Tree classifier.
+- Understood overfitting and controlled it using tree depth.
+- Built a Random Forest and compared its accuracy with the Decision Tree.
+- Learned to interpret feature importance for model insights.
+- Evaluated models using cross-validation for better reliability.
 
 ---
 > Completed by **Yash Mittal**
