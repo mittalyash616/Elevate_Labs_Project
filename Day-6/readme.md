@@ -1,7 +1,7 @@
-# Day-5: Decision Trees and Random Forests
+# Day-6: K-Nearest Neighbors (KNN) Classification
 
 **Objective:**  
-Learn tree-based models for classification & regression.
+Understand and implement KNN for classification problems.
 
 **Tools Used:**  
 - Python  
@@ -12,11 +12,11 @@ Learn tree-based models for classification & regression.
 - Graphviz
 
 **Task Overview / Mini Guide:**  
-1.Train a Decision Tree Classifier and visualize the tree.
-2.Analyze overfitting and control tree depth.
-3.Train a Random Forest and compare accuracy.
-4.Interpret feature importances.
-5.Evaluate using cross-validation.
+1.Choose a classification dataset and normalize features.
+2.Use KNeighborsClassifier from sklearn.
+3.Experiment with different values of K.
+4.Evaluate model using accuracy, confusion matrix.
+5.Visualize decision boundaries.
 
 **Folder Contents:**  
 - `data/` – The dataset file(s)  
