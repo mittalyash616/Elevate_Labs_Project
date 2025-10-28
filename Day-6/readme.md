@@ -25,15 +25,10 @@ Understand and implement KNN for classification problems.
 
 **What I Learned:**  
 - Loaded and preprocessed data using Pandas and scikit-learn.
-
 - Normalized features for better KNN performance.
-
 - Trained and tested the KNN model with different K values.
-
 - Evaluated results using accuracy and confusion matrix.
-
 - Visualized decision boundaries and accuracy trends.
-
 - Gained basic understanding of model building and evaluation.
 ---
 > Completed by **Yash Mittal**
